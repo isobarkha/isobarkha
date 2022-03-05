@@ -1,6 +1,6 @@
 ![](https://lh3.googleusercontent.com/INjE-yCHADz2WQ9lqq_ft9K7dCK4vS7aBXW6p8jJfe9nBw9b2z7eN0tstL-fLEha2mkDl7UJp_tL9K1gkDMgtdWasEZb1YYQFNbArTezuDgDi-f9lD6TpZo9m6vyFwi_EIT0OmYh=s72-p-k)
 
-### 👋 Hi there, I'm Barkha<br> 
+### 👋 Hi there, I'm Barkha.<br> 
 
 
 - 👩‍🎓 I'm a biotechnologist on my data science journey.
