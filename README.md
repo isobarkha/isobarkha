@@ -5,8 +5,7 @@
 
 - 👩‍🎓 I'm a biotechnologist on my data science journey.
 - 🧬 I'm currently learning to apply software tools to understand biological data.
-- 📈 I'm also working on more R software projects for my Website
-- 🎯 2022 Goals: To use and expand statistical-software knowledge that befits my wet-laboratory skillset 🔬🧪
+
 - ✨
   ![](https://lh3.googleusercontent.com/HAo9RiwhpKREVftfxebo3GDncVzVYcB7YfcQWOuWv5sIpKiXoVqx9ImAWfBiSak9RH1pAXSEk5nN0tGIjY5oORnCwtzVsjaVh0n8YMVfbR-YVjZ2yM9rsW5VsPTifbfkvHdD8Oi_=w600) </ul>
 
