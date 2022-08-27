@@ -3,9 +3,8 @@
 ### 👋 Hi there, I'm Barkha.<br> 
 
 
-- 👩‍🎓 I'm a biotechnologist on my data science journey.
-- 🧬 I'm currently learning to apply software tools to understand biological data.
 
+- I'm learning about SEO and life cycle of digital products
 - ✨
   ![](https://lh3.googleusercontent.com/HAo9RiwhpKREVftfxebo3GDncVzVYcB7YfcQWOuWv5sIpKiXoVqx9ImAWfBiSak9RH1pAXSEk5nN0tGIjY5oORnCwtzVsjaVh0n8YMVfbR-YVjZ2yM9rsW5VsPTifbfkvHdD8Oi_=w600) </ul>
 
